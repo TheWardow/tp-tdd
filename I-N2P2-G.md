@@ -19,7 +19,7 @@
 * GERME ROBIN :
 * HALIPRÉ RÉMY  :
 * HALLEUX ALEXANDRE :
-* JEDRZEJAK WILLIAM :
+* JEDRZEJAK WILLIAM : https://gitlab.com/TheWardow/RomanNumerals.git
 * LENAIN  MANON :
 * MAGNIER BENJAMIN  :
 * STEENKISTE  JÉRÉMY  :
